@@ -39,4 +39,4 @@ We believe in the power of collective knowledge and we welcome contributions fro
 
 ## License 📜
 
-This project is licensed under the MIT License, which means you're free to modify, distribute, and use the code as you see fit. Just remember to attribute the original work to  Ariel Tyson's GitHub** and keep the spirit of open-source development alive!
+This project is licensed under the MIT License, which means you're free to modify, distribute, and use the code as you see fit. Just remember to attribute the original work to  **Ariel Tyson's GitHub** and keep the spirit of open-source development alive!
